@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  width: 38.4rem ;
+  margin: 0 auto;
+  font-family: 'Staatliches', cursive;
+}
+
+header {
+  background: #8E9AAF ;
+  height: 27.9rem;
+}
+
+header img {
+  margin: 3.2rem 12.3rem;
+}
+
+h1 {
+padding: 0.8rem 8.6rem;
+background: #CBC0D3;
+height: 4.9rem;
+color: #ffffff;
+font-size: 4.0rem;
+line-height: 3.4rem;
+margin-bottom: 2.9rem;
+letter-spacing: 0.05em;
+
+}
+
+main {
+  width: 32.0rem;
+  margin: 0 3.2rem 6.0rem;
+}
+
+main p {
+  margin-bottom: 0 auto;
+  padding: 1.4rem 0 6.3rem;
+  width: 30.5rem;
+  font-size: 2.0rem;
+  font-family: 'Palanquin', sans-serif;
+  color: #23053A;
+
+  font-weight: 400;
+  line-height: 1.5rem;
+  
+  display: flex;
+  text-align: center;
+}
+
+.card {
+  gap: 3.2rem;
+}
